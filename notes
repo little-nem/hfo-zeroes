@@ -2,5 +2,5 @@ useful commands to launch from some ssh session on an ENS self-service machine
 
 Matlab env : 
 matlab -nodesktop
-addpath('/home/nfourn01/stage/tftb-0.2/mfiles')
+addpath('/home/user/stage/tftb-0.2/mfiles')
 cd stage/archive/demo/
