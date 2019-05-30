@@ -18,9 +18,9 @@ demo_matlab/ and demo_octave/
     From a Matlab or an Octave instance having the Time-Frequency Toolbox
     (http://tftb.nongnu.org/) avalaible on its path, just run:
 
-    ```
-    >> detector_demo
-    ```
+```
+>> detector_demo
+```
 
 stats_matlab/ and stats_octave/
     Contain a script that produces statistics on a number of marked HFOs.
@@ -28,9 +28,9 @@ stats_matlab/ and stats_octave/
     the two folders.
     Here run:
 
-    ```
-    >> detector_stats
-    ```
+```
+>> detector_stats
+```
 
 # Native Files (mex / oct)
 
@@ -48,8 +48,8 @@ of from Octave:
 > mkoctfile find_zeros_oct.cpp
 ```
 
-Refs:
-[1] : Roehri, N., Pizzo, F., Bartolomei, F., Wendling, F., & Bénar, C. G. (2017)
-    What are the assets and weaknesses of HFO detectors? A benchmark framework
-    based on realistic simulations.
-    PloS one, 12(4), e0174702.
+Bibliography:
+    - [1] : Roehri, N., Pizzo, F., Bartolomei, F., Wendling, F., & Bénar, C. G. (2017)
+        What are the assets and weaknesses of HFO detectors? A benchmark framework
+        based on realistic simulations.
+        PloS one, 12(4), e0174702.
